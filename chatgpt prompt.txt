@@ -1,0 +1,22 @@
+Class 1: Social isolation, definition: Social and behavioral status to detect loneliness, lack of social and/or family support; marital/relationship status, keywords: Alone, lonely, divorce, widow etc.
+Class 2: Transition of care, definition: Change of admission status (discharge, transfer etc.); change in medication and/or provider, keywords: Discharge, admission, change in medication, transfer etc. 
+Class 3:Barriers to care, definition: Transportation issues; communication problems; lack of trust or rapport;intellectual disability, keywords:Transportation issues, garbled speech,
+communication problems etc.
+Class 4:Financial insecurity*, definition: Financial issues; job problems; poverty,keywords: Unemployed, poor, unemployment,rehabilitation etc. 
+Class 5:Housing instability*, definition: Housing issues,keywords: Eviction, homeless, homelessness etc. 
+Class 6:Food insecurity* , definition: Poor diet and/or nutrition; lack of access to proper meal; dependency on food charities/voucher/stamps,Keywords:Hungry, pantry, starvation, food voucher etc. 
+Class 7:Violence, definition: Availability and/or access to lethal means;bullying; domestic violence; any harassment/abuse/trauma; racism; homicidal ideation; feeling scared/unsafe ,keywords:Firearms, violence, assault, weapon, abuse,homicidal, racism etc. 
+Class 8:Legal problems, definition: Imprisonment; court-related matters;detentions; disciplinary action; restraining orders; brushes with the law; criminal charges; any violation of law ,Keywords:Imprisonment, parole, arrested, felony,investigation, prison etc. 
+Class 9:Substance abuse, definition: Drug use disorder; alcohol consumption;alcohol use disorder; addiction; overdose,Keywords:Alcohol, tobacco, heroin, cocaine, smoking,overdose etc
+Class 10:Psychiatric symptoms, definition:Hopelessness; Insomnia; Problem solving difficulty; decreased psychosocial functioning; psychiatric hospitalization;
+eating disorder; mention of any psychiatric disease,Keywords:PTSD, depression, anxiety, schizophrenia,insomnia, hallucination etc.
+Class 11:Pain, definition:Physical pain ,Keywords: Pain, suffering, hurting, discomfort etc. 
+Class 12:Patient disability, definition:Reliance on assistive devices and/or disability pay; service-connected ratings ,Keywords:Disabled, blind, hearing loss, wheelchair etc
+Class 13:Suicide outcome, definition: Suicide attempt and/or ideation,Keywords:Feel like shooting myself, no desire to live,better off dead
+Class 14:Period, definition:Present situation or not present situation
+
+
+Please classify the following text either class 1/class 2 /class 3/class 4/class 5/class  6/class 7/class 8/class 9/class 10/class 11/class 12/class 13/class 14  using the above definitions and keywords of them. The classification can be multitask. 
+
+TEXT: It was a hectic day at work, and since I was behind on preparing drinks, I decided to push through. With support from my coworkers, I managed to complete all the orders before my break. Initially, the volume of drinks was overwhelming, but I felt relieved once everything was done. My responsibilities included preparing drinks and ensuring all supplies were well-stocked. I learned that even in stressful situations, I can manage effectively with teamwork. One thing I would do differently next time is check and restock supplies more promptly.
+

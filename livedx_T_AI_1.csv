@@ -1,0 +1,1499 @@
+﻿Text,Task1,Task2,Task3,Task4,Task5,Task6,Task7,Task8,Task9,Task10,Task11,Task12,Task13,Task14,Task15,Gender,Race_and_Ethnicity
+,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,Female,
+,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,Female,Native Hawaiian or Other Pacific Islander
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Native Hawaiian or Other Pacific Islander
+,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,Female,
+,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,Male,Black or African American
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,Native Hawaiian or Other Pacific Islander
+,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,Male,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,Female,Asian
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,Female,White
+,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Prefer not to answer
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Asian
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Arab
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Prefer not to answer
+,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,Asian
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Female,
+,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,Female,White
+,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,Male,American Indian or Alaskan Native
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Male,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,White
+,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,Two or more races
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Race and Ethnicity unknown
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,
+,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Male,Asian
+,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Female,Black or African American
+,0,1,1,0,0,0,1,0,0,1,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Female,White
+,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,Male,Black or African American
+,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,White
+,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,1,1,1,0,0,0,0,1,0,1,Male,White
+,0,1,0,0,1,1,0,0,1,0,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,Female,Asian
+,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,Male,White
+,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,Female,Black or African American
+,1,0,0,1,1,0,0,0,0,1,0,0,0,0,1,Male,White
+,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,Male,
+,0,0,1,0,0,1,1,0,1,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,Female,Asian
+,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,Male,Prefer not to answer
+,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,0,0,1,0,0,1,0,1,0,0,0,1,0,1,Female,Asian
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,
+,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,Female,
+,1,1,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Two or more races
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,American Indian or Alaskan Native
+,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Prefer not to answer
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,White
+,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,Male,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Black or African American
+,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,1,0,0,0,0,0,1,0,0,1,0,0,0,1,1,Female,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,
+,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,Male,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Male,Two or more races
+,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,White
+,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,Female,White
+,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,Male,Black or African American
+,0,1,1,0,0,0,0,0,0,1,0,0,0,1,1,Male,Black or African American
+,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,Male,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Custom,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,Female,Asian
+,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,Female,Asian
+,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Male,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,Custom,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Male,White
+,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Native Hawaiian or Other Pacific Islander
+,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Prefer not to answer
+,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,Female,Prefer not to answer
+,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Female,Prefer not to answer
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Prefer not to answer
+,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,Female,Prefer not to answer
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Two or more races
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Two or more races
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,Female,Prefer not to answer
+,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Prefer not to answer
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Prefer not to answer
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,
+,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Asian
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Asian
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,White
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Asian
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Male,White
+,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Two or more races
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,Male,White
+,1,1,0,1,0,0,0,1,0,0,0,0,0,0,1,Male,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,Female,Two or more races
+,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Male,black
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,American Indian or Alaskan Native
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Asian
+,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,1,0,0,0,1,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Asian
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Native Hawaiian or Other Pacific Islander
+,0,1,0,0,0,0,0,0,0,1,1,0,0,1,1,Female,Asian
+,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Female,Asian
+,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,Female,Native Hawaiian or Other Pacific Islander
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Native Hawaiian or Other Pacific Islander
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Female,Prefer not to answer
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,American Indian or Alaskan Native
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Male,American Indian or Alaskan Native
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Male,Asian
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Custom,Two or more races
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,Male,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Two or more races
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Asian
+,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Female,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Native Hawaiian or Other Pacific Islander
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,White
+,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Custom,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Female,White
+,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Asian
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,Male,Prefer not to answer
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Female,Asian
+,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Prefer not to answer
+,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,Female,White
+,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Prefer not to answer
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,Two or more races
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Asian
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,Arab
+,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,Native Hawaiian or Other Pacific Islander
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Asian
+,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Asian
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Two or more races
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,American Indian or Alaskan Native
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,American Indian or Alaskan Native
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Prefer not to answer
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Two or more races
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Male,
+,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,Male,
+,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,Male,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Male,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Black or African American
+,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,Male,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,Female,
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Female,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,Female,
+,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Native Hawaiian or Other Pacific Islander
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,Prefer not to answer
+,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Male,Asian
+,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Male,Asian
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,Male,Asian
+,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Asian
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Asian
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Asian
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Asian
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Asian
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Male,
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Male,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Prefer not to answer
+,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Male,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Black or African American
+,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,Two or more races
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,Male,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,
+,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Prefer not to answer
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Black or African American
+,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Female,Two or more races
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Asian
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Asian
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Two or more races
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Male,Asian
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,
+,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,Male,
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,Male,White
+,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Male,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Two or more races
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,Two or more races
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Two or more races
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,
+,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Male,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Prefer not to answer
+,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Male,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Two or more races
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Prefer not to answer
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Prefer not to answer
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Male,Asian
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Custom,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Asian
+,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Native Hawaiian or Other Pacific Islander
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Asian
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,American Indian or Alaskan Native
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,
+,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Female,
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Male,Two or more races
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Male,Two or more races
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,American Indian or Alaskan Native
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,American Indian or Alaskan Native
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,American Indian or Alaskan Native
+,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Asian
+,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Male,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Two or more races
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,South Asian - Indian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Arab
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,South Asian - Indian
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,South Asian - Indian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Native Hawaiian or Other Pacific Islander
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Native Hawaiian or Other Pacific Islander
+,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Female,Native Hawaiian or Other Pacific Islander
+,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,Native Hawaiian or Other Pacific Islander
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Asian
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Male,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Female,Two or more races
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Asian
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Prefer not to answer
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Custom,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,American Indian or Alaskan Native
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Asian
+,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Two or more races
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,Female,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Asian
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Asian
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Asian
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,North African
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Prefer not to answer
+,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,Male,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Custom,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,American Indian or Alaskan Native
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Female,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Male,Asian
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Hispanic or Latino or Spanish Origin of any race
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Male,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,Prefer not to answer
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,American Indian or Alaskan Native
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Two or more races
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,Female,Asian
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,American Indian or Alaskan Native
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,Female,Asian
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Asian
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Asian
+,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,
+,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,black
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Female,White
+,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Native Hawaiian or Other Pacific Islander
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,Female,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,Male,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Asian
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Asian
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,Two or more races
+,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,Female,Two or more races
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Female,Asian
+,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Male,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,Male,White
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,Male,White
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,Female,White
+,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Male,White
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,Male,Black or African American
+,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Male,Two or more races
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Two or more races
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Female,Hispanic or Latino or Spanish Origin of any race
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Black or African American
+,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,Female,Asian
+,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Female,Prefer not to answer
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,Asian
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,Prefer not to answer
+,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Male,White
+,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,Male,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,Female,Hispanic or Latino or Spanish Origin of any race
+,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Female,White
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Male,Black or African American
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Black or African American
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Male,White
+,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,Female,White
+,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,Male,Black or African American
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,,
+,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,,
+,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,,
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,,
+,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,1,0,1,0,1,0,0,0,0,0,0,0,0,1,1,,
+,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,,
+,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,,
+,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,,
+,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,,
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,,
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,
+,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,,
+,0,0,1,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,,
+,1,0,1,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,1,0,0,0,0,0,0,1,,,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,1,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,!,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,1,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,1,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,1,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,1,0,0,1,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,1,0,1,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,1,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,None,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,1,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,1,0,0,1,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,1,0,1,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,1,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,1,0,0,1,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,1,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,1,0,0,0,0,1,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,1,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,1,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,1,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,1,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,1,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,1,0,0,0,0,0,0,0,0,1,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,1,0,1,,,
+,0,0,0,0,1,0,0,0,0,0,1,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,1,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,1,0,0,0,0,0,1,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,,
+,0,0,0,0,1,0,0,0,0,0,1,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,1,0,0,0,1,0,0,,,
+,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,1,0,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,1,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,
+,0,1,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,1,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,
