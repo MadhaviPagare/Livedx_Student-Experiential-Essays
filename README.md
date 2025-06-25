@@ -11,5 +11,5 @@ https://educationaldatamining.org/edm2024/proceedings/2024.EDM-industry.64/
 ## Acknowledgment
 This project was completed during my time as a **Machine Learning Intern at LivedX**, under the expert mentorship of **Prof. Mohammad Arif Ul Alam**, whose continuous guidance, technical insights, and research supervision were instrumental in shaping the direction and outcomes of this work.
 I also extend my sincere thanks to **Dr. Geeta Verma**  and **Dr. Ashis Biswas** for their support and for facilitating this internship opportunity.
-The internship provided meaningful hands-on experience in applied machine learning, including data annotation, model development, evaluation, and research communication.
+The internship provided meaningful hands-on experience in applied machine learning, including data annotation,Large Language model framework, model development, evaluation, and research communication.
 
